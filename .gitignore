@@ -1,0 +1,23 @@
+
+# Compiled Java files
+bin/
+*.class
+out/
+
+# VS Code local configuration
+.vscode/
+
+# Eclipse settings
+.settings/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
